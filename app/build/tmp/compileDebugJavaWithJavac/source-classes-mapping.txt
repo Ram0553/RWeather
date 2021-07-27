@@ -1,0 +1,6 @@
+com/example/dnld_web_content_prac/MainActivity.java
+ com.example.dnld_web_content_prac.MainActivity
+ com.example.dnld_web_content_prac.MainActivity$1
+ com.example.dnld_web_content_prac.MainActivity$down
+com/example/dnld_web_content_prac/BuildConfig.java
+ com.example.dnld_web_content_prac.BuildConfig
